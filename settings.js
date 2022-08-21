@@ -13,9 +13,9 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read message
+global.autoread = true // auto read message
 global.autobio = true 
-global.userRegister = true 
+global.userRegister = false 
 
 //language
 //Available in indonesia , english & spanyol 
